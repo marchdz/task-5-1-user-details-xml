@@ -3,6 +3,10 @@
     <style name="Base.Theme.Task51XML" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+<!--        <item name="android:windowLightStatusBar">false</item>-->
+<!--        <item name="statusBarBackground">@color/black</item>-->
+<!--        <item name="statusBarForeground">@color/white</item>-->
     </style>
 
     <style name="Theme.Task51XML" parent="Base.Theme.Task51XML" />
