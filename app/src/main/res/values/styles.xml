@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="user_data_titles">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/user_data_titles_text_size</item>
+    </style>
+
+    <style name="user_data_description">
+        <item name="android:textSize">@dimen/user_data_description_text_size</item>
+    </style>
+</resources>

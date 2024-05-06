@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Task 5.1 XML</string>
+
+    <string name="title_email">Correo electrónico</string>
+    <string name="title_mobile_phone">Teléfono móvil</string>
+    <string name="title_complete_name">Nombre completo</string>
+    <string name="title_office">Oficina</string>
+    <string name="title_about_me">Sobre mi</string>
+
+    <string name="hardcoded_email">adolfo.calvo@vass.es</string>
+    <string name="hardcoded_mobile_phone_number">639518673</string>
+    <string name="hardcoded_user_name">Adolfo Calvo</string>
+    <string name="hardcoded_office">VASS Madrid</string>
+    <string name="hardcoded_about_me">A tech savvy and computer geek which lives by earning bread on computer 24/7</string>
 </resources>
