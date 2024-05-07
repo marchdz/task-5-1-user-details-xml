@@ -3,10 +3,14 @@
     <dimen name="common_padding_min">8dp</dimen>
     <dimen name="common_padding_default">16dp</dimen>
     <dimen name="common_padding_middle">24dp</dimen>
+    <dimen name="common_padding_high">32dp</dimen>
 
-    <dimen name="top_margin_user_data">48dp</dimen>
-    <dimen name="horizontal_margin_user_data">52dp</dimen>
+    <dimen name="user_avatar_card_elevation">1dp</dimen>
+    <dimen name="user_avatar_corner_radius">60dp</dimen>
+    <dimen name="user_avatar_size">120dp</dimen>
 
-    <dimen name="user_data_titles_text_size">14sp</dimen>
     <dimen name="user_data_description_text_size">16sp</dimen>
+    <dimen name="user_data_horizontal_margin">52dp</dimen>
+    <dimen name="user_data_titles_text_size">14sp</dimen>
+    <dimen name="user_data_top_margin">48dp</dimen>
 </resources>

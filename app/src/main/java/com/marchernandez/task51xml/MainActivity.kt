@@ -13,8 +13,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
-
         mBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(mBinding.root)
         ViewCompat.setOnApplyWindowInsetsListener(mBinding.main) { v, insets ->
